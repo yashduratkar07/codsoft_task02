@@ -1,24 +1,23 @@
 # Virtual Internship Programme at CodSoft
 
-## ✨TASK 01: To-Do List📝
+## ✨TASK 02: Portfolio Website🙎‍♂️
 * ### **Description:** 
-Create a web-based task list application for managing to-do items.
+Create a personal portfolio website to showcase your skills and projects.
 
 * ### **Steps:**
-1. Create the HTML structure for the task list.
-Style it with CSS.
-2. Add functionality to add, edit, and delete tasks with JavaScript.
-3. Implement local storage to save tasks.
+1. Design the website layout with HTML and CSS.
+2. Include sections for an introduction, projects, skills, and contact information.
+3. Implement responsive design for different screen sizes.
+4. Enhance interactivity using JavaScript for smooth navigation and animations.
 
 * ### **Technologies:**
 HTML, CSS, JavaScript.
-> Also, Local Storage is used to store the key-value pair.
 
 * ### **Skills:** 
-DOM manipulation, Event handling
+Web development, responsive design
 
 * ### **Tool Used:** 
 Visual Studio Code
 
-### [**Visit Site🚀**](https://yashduratkar07.github.io/To-Do-List/)
+### [**Visit Site🚀**](https://yashduratkar07.github.io/Responsive-Portfolio-Website/)
 > This site was built using GitHub Pages
