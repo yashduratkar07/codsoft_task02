@@ -19,5 +19,5 @@ Web development, responsive design
 * ### **Tool Used:** 
 Visual Studio Code
 
-### [**Visit Site🚀**](https://yashduratkar07.github.io/Responsive-Portfolio-Website/)
+### [**Visit Site🚀**](https://yashduratkar07.github.io/codsoft_task02/)
 > This site was built using GitHub Pages
