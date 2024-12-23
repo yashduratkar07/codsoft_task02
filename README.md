@@ -11,7 +11,7 @@ Create a personal portfolio website to showcase your skills and projects.
 4. Enhance interactivity using JavaScript for smooth navigation and animations.
 
 * ### **Screenshot:**
-![Portfolio](https://github.com/user-attachments/assets/3fadcadb-92fd-420a-888e-6a1a36205aa4)
+![Portfolio SS](https://github.com/user-attachments/assets/4d989eba-184e-4a10-80db-24abf22b6747)
 
 * ### **Technologies:**
 HTML, CSS, JavaScript.
