@@ -414,6 +414,11 @@ section {
   color: white;
 }
 
+.counter {
+  padding-top: 30px;  
+  text-align: center;                                                                  
+}
+
 @media(max-width: 1285px) {
   #menu-icon {
     display: block;
