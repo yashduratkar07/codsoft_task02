@@ -10,6 +10,9 @@ Create a personal portfolio website to showcase your skills and projects.
 3. Implement responsive design for different screen sizes.
 4. Enhance interactivity using JavaScript for smooth navigation and animations.
 
+* ### **Screenshot:**
+![Portfolio](https://github.com/user-attachments/assets/3fadcadb-92fd-420a-888e-6a1a36205aa4)
+
 * ### **Technologies:**
 HTML, CSS, JavaScript.
 
