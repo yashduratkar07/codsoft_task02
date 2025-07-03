@@ -106,7 +106,7 @@ section {
 
 .home-content h3 {
   margin: 1rem 0;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 .home-content p {
@@ -155,7 +155,7 @@ section {
 
 .btn {
   display: inline-block;
-  padding: 1rem 3rem;
+  padding: 5px 15px;
   background-color: var(--main-color);
   border: 2px solid var(--main-color);
   border-radius: 500px;
@@ -296,7 +296,7 @@ section {
   background: radial-gradient(circle at 12.3% 19.3%, rgb(95, 209, 249) 0%, rgb(85, 88, 218) 100.2%);
   background-clip: text;
   color: transparent;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .project-card p {
